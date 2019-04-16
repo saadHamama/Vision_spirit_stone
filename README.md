@@ -34,8 +34,8 @@ If you have any ideas for this list, I invite you to open an issue and I will ad
   - [ ] **An admin Dashboard (recurrent users etc...)**
 
 ## Any questions ?
-Feel free to open an issue or send me an email at harry.jmg@gmail.com
+Feel free to open an issue or send me an email at saad.hamama330@gmail.com
 
 ## FAQ
-### Why Alfred ?
-An old private joke for the viewers of [my youtube channel](https://www.youtube.com/channel/UC61GK_nOLSJdzAK5hoR2mJA) (french speaking).
+### Why Vison ?
+because it is the last version of jarvis 
